@@ -1,5 +1,6 @@
-### Hi there 👋
+* First do it, then do it well, then do it better. - Addy Osmani
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmente)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JMente/JMente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
