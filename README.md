@@ -1,5 +1,11 @@
 * First do it, then do it well, then do it better. - Addy Osmani
 
+# Hi, I'm Josue. 
+
+I'm a Web Developer focused on provide efficient solution based on Web Services and Cloud solutions.
+
+<a href="https://app.daily.dev/MrMind"><img src="https://api.daily.dev/devcards/0e3583b4fd9e4027a60aaf7c096eea33.png?r=v56" width="400" alt="Josue Mente's Dev Card"/></a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmente)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JMente/JMente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
